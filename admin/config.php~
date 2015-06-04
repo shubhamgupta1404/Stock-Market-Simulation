@@ -1,0 +1,7 @@
+<?php
+$initial_balance = 100000;
+$stock_online = "Exchange";
+$sensex = "sensex";
+$chart_interactive = "interactive link";
+$sensex_chart = "image link";
+?>

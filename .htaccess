@@ -1,0 +1,8 @@
+Options +Indexes
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !css/screen.css$ [NC]
+RewriteRule ^(.*)\.html$ $1.php [L]
+RewriteRule ([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)$ $1.php?$2=$3&$4=$5&$6=$7 [NC]
+#RewriteRule ([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)/([a-z-]+)$ $1.php?$2=$3&$4=$5 [NC]
+#RewriteRule ([a-z-]+)/([a-z-]+)/([a-z-]+)$ $1.php?$2=$3 [NC]

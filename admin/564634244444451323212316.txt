@@ -1,0 +1,33 @@
+NSE
+
+Exchange # NSE
+
+Chart Image Link # http://ichart.finance.yahoo.com/b?s=%5ENSEI
+
+Chart Interactive Link # http://in.finance.yahoo.com/echarts?s=^NSEI#symbol=^nsei;range=1d;compare=;indicator=volume;charttype=area;crosshair=on;ohlcvalues=0;logscale=off;source=undefined;
+
+Sensex#
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+BSE
+
+Exchange # BSE
+
+Chart Image Link # http://chart.finance.yahoo.com/t?s=%5eBSESN&lang=en-IN&region=IN&width=300&height=180
+
+Chart Interactive Link # http://in.finance.yahoo.com/echarts?s=^BSESN#symbol=^bsesn;range=1d;compare=;indicator=volume;charttype=area;crosshair=on;ohlcvalues=0;logscale=off;source=undefined;
+
+Sensex# http://www.bseindia.com/data/xml/sensexrss.xml
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+NYSE
+
+Exchange # NYSE
+
+Chart Image Link # http://chart.finance.yahoo.com/t?s=%5eNYA&lang=en-US&region=US&width=300&height=180
+
+Chart Interactive Link #
+
+Sensex#

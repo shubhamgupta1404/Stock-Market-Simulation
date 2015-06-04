@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Updater</title>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+	$(function(){
+		var time = 5000;
+		$.ajax({
+			url : "fetchxml.php",
+			success : function(e){
+				$(document).html(e);
+			}
+		})
+	});
+</script>
+</body>
+</html>
